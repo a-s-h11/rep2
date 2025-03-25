@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main() {
+    int n;
+    printf("choose your course: cse(1), aiml(2), ece(3), biotech(4): ");
+    scanf("%d", &n);
+    switch(n)
+    {
+        case 1:
+            printf("you have chosen cse");
+            break;
