@@ -8,3 +8,18 @@ int main() {
         case 1:
             printf("you have chosen cse");
             break;
+<<<<<<< HEAD
+=======
+        case 2:
+            printf("you have chosen aiml");
+            break;
+        case 3:
+            printf("you have chosen ece");
+            break;
+        case 4:
+            printf("you have chosen biotech");
+
+break;
+    }
+}
+>>>>>>> master

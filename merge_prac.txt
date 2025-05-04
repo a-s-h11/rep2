@@ -1,3 +1,5 @@
 line 1 merge prac
 line 2 merge prac
+yet another line merge prac
+>>>>>>> master
 
